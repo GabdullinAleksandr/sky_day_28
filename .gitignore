@@ -1,0 +1,4 @@
+venv
+.idea
+day_27/__pycache__
+tests/__pycache__
